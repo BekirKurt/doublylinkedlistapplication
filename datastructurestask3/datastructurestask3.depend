@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638876420 source:c:\users\bekir\onedrive\masaüstü\kod1\datastructurestask3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"datastructurestask3.h"
+
+1638876640 c:\users\bekir\onedrive\masaüstü\kod1\datastructurestask3\datastructurestask3.h
+
